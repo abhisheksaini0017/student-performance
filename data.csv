@@ -1,0 +1,706 @@
+Student_ID,Name,Age,Gender,Branch,Semester,City,Attendance_Percent,Study_Hours_Per_Day,Assignments_Completed,Midterm_Score,Final_Score,Backlogs,Placement_Status
+STU0001,Student_001,21,Female,CSE,7,Ajmer,76.1,1.9,14,60.1,87.5,0,Higher Studies
+STU0002,Student_002,22,Male,ECE,4,Alwar,86.4,6.2,15,55.4,68.4,0,Higher Studies
+STU0003,Student_003,20,Female,EE,3,Ajmer,74.7,5.3,9,93.7,65.6,0,Not Placed
+STU0004,Student_004,22,Male,ME,2,Udaipur,85.6,2.5,8,68.9,55.9,0,Placed
+STU0005,Student_005,22,Female,CSE,7,Udaipur,59.5,2.1,4,75.1,89.9,1,Placed
+STU0006,Student_006,19,Male,ME,7,Jodhpur,76.4,5.2,15,80.4,48.5,0,Placed
+STU0007,Student_007,20,Female,ECE,3,Alwar,78.9,3.7,14,69.1,61.7,0,Not Placed
+STU0008,Student_008,20,Male,CE,7,Jaipur,78.3,8.1,7,70.9,95.4,5,Not Placed
+STU0009,Student_009,20,Male,CSE,8,Ajmer,58.2,6.4,7,49.6,77.0,0,Higher Studies
+STU0010,Student_010,22,Female,ME,4,Jaipur,92.4,5.4,20,52.7,69.7,0,Higher Studies
+STU0011,Student_011,21,Male,ECE,5,Alwar,67.7,5.5,5,51.8,70.3,0,Placed
+STU0012,Student_012,20,Female,EE,6,Jaipur,82.0,7.2,5,76.7,55.8,0,Not Placed
+STU0013,Student_013,23,Female,CSE,3,Alwar,78.1,6.2,15,68.1,69.0,1,Higher Studies
+STU0014,Student_014,22,Male,ME,5,Jodhpur,90.0,5.5,9,52.7,64.8,0,Placed
+STU0015,Student_015,19,Female,EE,5,Jaipur,100.0,2.5,13,76.3,72.7,0,Not Placed
+STU0016,Student_016,21,Male,CSE,1,Ajmer,62.5,10.0,19,75.7,47.4,2,Placed
+STU0017,Student_017,23,Female,EE,8,Kota,70.2,2.3,17,55.9,76.0,2,Not Placed
+STU0018,Student_018,23,Male,ME,3,Udaipur,80.3,3.9,10,66.6,85.2,4,Placed
+STU0019,Student_019,19,Male,CSE,7,Kota,64.7,1.2,20,75.8,66.9,2,Higher Studies
+STU0020,Student_020,21,Female,CSE,6,Jaipur,87.4,5.6,12,53.3,79.7,0,Not Placed
+STU0021,Student_021,22,Female,ME,3,Kota,88.1,4.8,16,76.1,74.7,0,Placed
+STU0022,Student_022,18,Male,CSE,7,Ajmer,84.7,6.0,8,71.8,60.9,0,Placed
+STU0023,Student_023,21,Female,ECE,5,Ajmer,80.8,1.0,8,51.0,54.1,0,Not Placed
+STU0024,Student_024,19,Male,CSE,6,Jaipur,94.4,6.7,13,70.5,56.2,1,Higher Studies
+STU0025,Student_025,23,Male,ECE,7,Jodhpur,64.1,2.9,13,72.9,74.4,2,Not Placed
+STU0026,Student_026,22,Male,CSE,4,Kota,78.8,4.2,10,57.0,69.2,0,Not Placed
+STU0027,Student_027,21,Male,CE,7,Jodhpur,69.1,6.4,18,58.2,89.1,0,Placed
+STU0028,Student_028,18,Male,EE,1,Jodhpur,88.7,5.0,10,50.9,81.9,0,Not Placed
+STU0029,Student_029,18,Male,EE,8,Alwar,56.0,5.2,18,59.8,81.8,3,Not Placed
+STU0030,Student_030,20,Female,ME,5,Delhi,77.7,6.1,6,66.8,73.9,1,Not Placed
+STU0031,Student_031,20,Female,CSE,7,Jaipur,82.0,5.4,13,58.3,55.6,2,Placed
+STU0032,Student_032,19,Female,ME,8,Udaipur,66.6,3.8,18,43.2,74.9,2,Not Placed
+STU0033,Student_033,21,Male,CSE,2,Ajmer,70.5,4.2,6,56.0,71.0,3,Not Placed
+STU0034,Student_034,21,Male,CSE,2,Ajmer,78.2,4.9,9,60.3,52.9,1,Higher Studies
+STU0035,Student_035,23,male,CSE,8,Jaipur,89.5,2.7,15,80.1,88.1,1,Higher Studies
+STU0036,Student_036,23,Female,ECE,8,Alwar,65.6,6.5,18,76.5,86.5,0,Not Placed
+STU0037,Student_037,23,Male,CE,1,Bikaner,67.7,5.1,9,80.4,52.8,0,Not Placed
+STU0038,Student_038,20,Female,cse,4,Bikaner,91.5,4.6,16,55.2,60.4,0,Placed
+STU0039,Student_039,21,Female,CSE,5,Bikaner,74.7,6.9,6,69.3,61.8,0,Not Placed
+STU0040,Student_040,21,Female,CSE,3,Alwar,68.7,4.3,11,28.2,79.1,4,Not Placed
+STU0041,Student_041,18,Female,EE,1,Udaipur,86.7,4.1,11,73.9,77.4,0,Placed
+STU0042,Student_042,20,Male,CSE,4,Ajmer,72.1,3.5,18,76.8,70.7,2,Placed
+STU0043,Student_043,22,Male,ECE,8,Jaipur,90.3,5.2,7,61.4,74.1,0,Not Placed
+STU0044,Student_044,20,Female,CSE,3,Alwar,70.0,5.1,6,71.7,50.7,0,Placed
+STU0045,Student_045,22,Female,CE,8,Ajmer,76.1,3.2,16,42.8,75.7,3,Not Placed
+STU0046,Student_046,18,Male,ME,8,Jodhpur,89.3,4.1,11,54.2,68.5,0,Not Placed
+STU0047,Student_047,19,Male,CSE,2,Kota,75.3,3.2,19,79.2,59.8,0,Placed
+STU0048,Student_048,21,Male,CSE,2,Kota,87.1,3.1,16,75.2,47.0,0,Placed
+STU0049,Student_049,18,Female,ME,3,Alwar,77.2,1.0,6,60.4,70.4,1,Not Placed
+STU0050,Student_050,21,Female,ME,1,Ajmer,100.0,4.0,19,80.0,75.4,0,Not Placed
+STU0051,Student_051,23,Male,CSE,2,Delhi,96.8,1.1,12,69.2,44.5,1,Placed
+STU0052,Student_052,19,Male,EE,5,Udaipur,62.1,3.6,17,58.9,70.3,1,Higher Studies
+STU0053,Student_053,19,Male,CSE,8,Bikaner,84.3,3.3,16,64.1,71.8,1,Not Placed
+STU0054,Student_054,18,Female,CSE,6,Udaipur,68.2,6.6,10,59.7,61.7,1,Placed
+STU0055,Student_055,19,Female,EE,7,Udaipur,80.3,2.5,18,48.1,75.7,0,Not Placed
+STU0056,Student_056,22,Female,CSE,3,Alwar,78.8,3.0,10,87.1,68.0,0,Higher Studies
+STU0057,Student_057,19,Male,ME,3,Jodhpur,65.3,3.7,9,57.9,74.2,2,Not Placed
+STU0058,Student_058,21,Male,CSE,2,Udaipur,90.7,3.3,5,53.7,78.0,0,Placed
+STU0059,Student_059,21,Male,CSE,1,Kota,80.4,7.2,12,42.5,78.0,0,Higher Studies
+STU0060,Student_060,21,Male,EE,8,Jodhpur,74.6,2.2,20,24.8,85.3,0,Not Placed
+STU0061,Student_061,21,Female,CSE,5,Jaipur,72.7,3.7,8,78.2,75.1,2,Placed
+STU0062,Student_062,22,Female,EE,1,Udaipur,79.7,5.2,15,79.7,62.8,0,Not Placed
+STU0063,Student_063,20,Female,CSE,4,Udaipur,82.9,6.3,4,86.1,60.3,0,Not Placed
+STU0064,Student_064,23,Female,CSE,4,Jaipur,76.5,3.7,13,64.6,54.1,1,Higher Studies
+STU0065,Student_065,18,Male,CSE,6,Udaipur,45.0,0.7,14,61.8,72.3,1,Not Placed
+STU0066,Student_066,21,Female,ME,2,Jaipur,78.2,4.2,19,58.9,89.8,0,Placed
+STU0067,Student_067,19,Female,CSE,2,Jodhpur,60.7,7.2,17,60.3,64.6,0,Not Placed
+STU0068,Student_068,21,Female,CE,2,Kota,75.5,5.1,11,84.9,76.7,1,Not Placed
+STU0069,Student_069,19,Male,ECE,6,Jaipur,61.1,5.0,20,66.6,58.7,5,Placed
+STU0070,Student_070,23,Male,EE,4,Delhi,61.0,2.4,15,73.0,72.9,1,Not Placed
+STU0071,Student_071,23,Male,CSE,1,Alwar,92.8,2.2,20,59.9,88.9,0,Not Placed
+STU0072,Student_072,23,Female,CE,6,Alwar,74.2,,17,88.1,80.3,0,Placed
+STU0073,Student_073,19,Male,CE,6,Jaipur,73.2,1.6,19,36.5,46.4,2,Not Placed
+STU0074,Student_074,21,Male,CE,1,Alwar,83.8,6.1,17,47.5,78.6,2,Placed
+STU0075,Student_075,23,Female,CE,2,Udaipur,73.6,2.8,12,73.1,79.2,0,Placed
+STU0076,Student_076,22,Male,ME,5,Bikaner,100.0,4.5,7,95.0,72.6,0,Placed
+STU0077,Student_077,19,Male,ECE,1,Bikaner,74.7,0.7,14,63.4,80.0,1,Placed
+STU0078,Student_078,19,Male,CSE,4,Alwar,82.4,3.7,9,53.5,57.5,0,Not Placed
+STU0079,Student_079,21,Female,CSE,3,Jodhpur,89.7,2.1,18,83.0,70.9,0,Placed
+STU0080,Student_080,19,Male,EE,8,Ajmer,97.2,0.5,8,72.2,86.7,0,Not Placed
+STU0081,Student_081,19,Female,ECE,3,Jodhpur,69.1,5.6,14,87.6,85.3,0,Placed
+STU0082,Student_082,23,Male,CE,7,Ajmer,73.0,7.8,16,46.4,78.2,0,Higher Studies
+STU0083,Student_083,21,Female,ECE,7,Bikaner,93.3,6.8,14,86.4,56.8,1,Not Placed
+STU0084,Student_084,23,Male,CSE,6,Bikaner,87.7,5.9,17,42.2,54.4,0,Not Placed
+STU0085,Student_085,23,Male,CSE,8,Jaipur,90.9,3.7,18,,71.7,0,Placed
+STU0086,Student_086,21,Female,ME,3,Kota,61.6,6.1,12,73.6,72.7,0,Placed
+STU0087,Student_087,18,Male,CSE,5,Delhi,96.6,6.9,11,70.0,68.5,0,Placed
+STU0088,Student_088,23,Male,CSE,2,Jodhpur,68.9,4.8,4,84.0,57.9,0,Higher Studies
+STU0089,Student_089,22,Male,ECE,4,Udaipur,80.3,2.1,7,37.8,76.6,0,Not Placed
+STU0090,Student_090,22,Female,CSE,7,Ajmer,76.2,3.5,17,69.3,71.7,1,Not Placed
+STU0091,Student_091,19,Female,ECE,5,Alwar,67.5,7.9,5,86.2,74.3,0,Not Placed
+STU0092,Student_092,22,Female,CSE,4,,61.0,4.4,19,67.9,78.9,0,Placed
+STU0093,Student_093,19,Male,CE,4,Kota,57.1,0.5,6,48.7,65.9,0,Not Placed
+STU0094,Student_094,18,Male,CSE,2,Ajmer,79.4,1.6,11,83.1,62.7,0,Not Placed
+STU0095,Student_095,21,Male,ECE,8,Jodhpur,59.7,3.7,9,56.6,86.6,2,Not Placed
+STU0096,Student_096,21,Male,CSE,6,Jaipur,64.4,6.6,19,53.8,58.6,0,Not Placed
+STU0097,Student_097,21,Male,CSE,3,Udaipur,75.4,4.0,19,51.8,63.0,3,Placed
+STU0098,Student_098,22,Male,CSE,2,Kota,46.3,6.6,10,63.8,88.5,0,Placed
+STU0099,Student_099,18,Male,ECE,5,Jodhpur,87.3,3.4,16,69.9,61.8,2,Not Placed
+STU0100,Student_100,22,Female,ECE,6,Bikaner,49.1,0.6,16,46.7,68.5,0,Not Placed
+STU0101,Student_101,22,Male,CSE,5,Bikaner,77.1,3.5,8,50.0,63.8,1,Not Placed
+STU0102,Student_102,18,Male,ME,6,Jodhpur,78.2,5.2,18,55.9,43.3,0,Higher Studies
+STU0103,Student_103,18,male,CE,8,Jodhpur,84.5,5.0,5,51.7,68.2,0,Placed
+STU0104,Student_104,18,Male,CE,7,Jodhpur,77.5,2.0,13,67.6,54.8,2,Higher Studies
+STU0105,Student_105,18,Female,CSE,5,Ajmer,100.0,3.8,16,72.8,73.8,1,Higher Studies
+STU0106,Student_106,21,Female,ECE,2,Jodhpur,80.6,9.9,18,70.6,86.6,0,Higher Studies
+STU0107,Student_107,20,Female,CSE,6,Udaipur,90.6,2.0,15,70.6,36.8,0,Not Placed
+STU0108,Student_108,20,Male,CSE,6,Kota,69.3,5.8,18,93.7,63.9,0,Placed
+STU0109,Student_109,18,Female,EE,4,Ajmer,79.4,0.5,16,73.8,76.8,2,Placed
+STU0110,Student_110,20,Male,CSE,4,Jodhpur,96.6,6.2,18,79.5,37.2,0,Not Placed
+STU0111,Student_111,20,Male,ECE,1,Delhi,75.1,2.7,14,60.4,90.0,0,Placed
+STU0112,Student_112,18,Male,ECE,5,Alwar,80.3,5.3,6,82.1,75.7,1,Placed
+STU0113,Student_113,20,Female,ME,4,Delhi,89.8,1.9,10,59.6,86.2,2,Not Placed
+STU0114,Student_114,22,Male,ECE,1,Kota,69.1,5.1,17,73.6,61.5,1,Placed
+STU0115,Student_115,19,Male,CSE,7,Bikaner,52.1,2.7,17,45.1,63.4,1,Higher Studies
+STU0116,Student_116,19,Female,CSE,7,Jaipur,81.1,3.1,16,69.7,67.6,1,Not Placed
+STU0117,Student_117,18,Male,ECE,4,Jaipur,89.9,5.4,15,51.4,100.0,0,Not Placed
+STU0118,Student_118,21,Male,CSE,5,Alwar,61.8,3.6,12,82.0,89.8,0,Not Placed
+STU0119,Student_119,18,Male,CSE,6,Bikaner,86.0,5.3,4,81.0,72.0,2,Higher Studies
+STU0120,Student_120,21,Male,CSE,3,Ajmer,86.1,4.1,14,59.5,73.8,0,Not Placed
+STU0121,Student_121,19,Male,CSE,8,Ajmer,50.7,4.6,15,99.8,79.5,3,Not Placed
+STU0122,Student_122,18,Male,CSE,5,Ajmer,66.8,,4,62.4,100.0,0,Placed
+STU0123,Student_123,23,Female,CSE,8,Jaipur,73.3,3.8,20,41.2,75.7,0,Higher Studies
+STU0124,Student_124,22,Male,ECE,2,Delhi,75.8,2.5,8,54.5,70.7,3,Not Placed
+STU0125,Student_125,20,Male,ME,7,Jaipur,69.1,3.4,6,50.3,64.9,1,Not Placed
+STU0126,Student_126,21,Female,CE,4,Udaipur,68.4,6.9,5,73.1,73.5,0,Placed
+STU0127,Student_127,23,Male,CSE,4,Jodhpur,98.1,4.7,6,47.2,61.2,1,Not Placed
+STU0128,Student_128,20,Female,CSE,8,Ajmer,76.7,2.8,11,58.4,77.4,1,Placed
+STU0129,Student_129,20,Male,CSE,6,Delhi,69.7,5.3,19,72.0,48.5,0,Higher Studies
+STU0130,Student_130,18,Male,ME,8,Kota,77.5,5.4,9,69.2,66.1,0,Higher Studies
+STU0131,Student_131,20,Male,ME,2,Alwar,84.4,5.5,16,66.8,81.0,2,Placed
+STU0132,Student_132,22,Male,CSE,6,Kota,78.6,2.5,19,69.0,75.5,2,Not Placed
+STU0133,Student_133,23,Male,EE,2,Jodhpur,75.5,3.1,19,61.1,63.1,0,Placed
+STU0134,Student_134,20,Male,CSE,3,Delhi,70.2,3.1,6,41.3,66.5,2,Not Placed
+STU0135,Student_135,18,Male,ECE,7,Jaipur,70.1,3.8,16,60.7,85.5,2,Placed
+STU0136,Student_136,22,Male,ME,4,Jaipur,70.8,5.6,17,74.5,51.8,0,Not Placed
+STU0137,Student_137,19,Male,CE,4,Udaipur,82.1,5.1,11,64.8,51.9,1,Placed
+STU0138,Student_138,23,Male,ME,3,Udaipur,66.1,5.3,15,73.3,56.1,0,Placed
+STU0139,Student_139,20,Male,CE,1,Jaipur,82.7,7.2,11,57.6,69.8,0,Placed
+STU0140,Student_140,18,Male,CSE,7,,95.0,5.9,12,82.9,49.6,1,Placed
+STU0141,Student_141,19,Female,CE,6,Alwar,81.9,4.2,4,26.1,84.3,2,Not Placed
+STU0142,Student_142,19,Male,CSE,3,Ajmer,73.6,2.1,9,69.3,56.1,1,Placed
+STU0143,Student_143,21,Female,EE,6,Kota,62.4,3.1,14,88.6,73.4,0,Not Placed
+STU0144,Student_144,22,Female,ECE,8,Alwar,96.9,4.0,14,91.0,61.3,0,Higher Studies
+STU0145,Student_145,20,Male,CE,5,Udaipur,64.0,6.2,16,63.3,69.0,0,Not Placed
+STU0146,Student_146,18,Female,ECE,4,Jodhpur,88.2,4.4,14,45.8,45.9,0,Higher Studies
+STU0147,Student_147,21,Female,ME,6,,85.7,3.2,18,88.9,85.0,0,Higher Studies
+STU0148,Student_148,22,Male,ECE,2,Jaipur,75.2,3.0,4,66.2,55.6,0,Placed
+STU0149,Student_149,21,Male,ME,6,Udaipur,74.8,4.4,10,64.5,54.0,0,Placed
+STU0150,Student_150,23,Female,CSE,5,Udaipur,56.0,6.3,16,52.7,100.0,1,Not Placed
+STU0151,Student_151,22,male,CSE,7,Ajmer,82.0,7.7,15,47.0,78.3,0,Higher Studies
+STU0152,Student_152,22,Male,CSE,4,Jaipur,85.4,4.1,18,76.0,84.4,1,Higher Studies
+STU0153,Student_153,20,Male,CSE,8,Ajmer,64.9,4.4,11,77.7,76.9,0,Placed
+STU0154,Student_154,22,Male,CE,3,Jaipur,76.1,2.1,13,70.2,63.2,0,Placed
+STU0155,Student_155,21,Male,CSE,8,Ajmer,78.5,8.4,10,54.8,50.4,0,Placed
+STU0156,Student_156,22,Male,EE,5,Alwar,85.0,1.7,19,50.0,65.5,0,Not Placed
+STU0157,Student_157,20,Male,CSE,4,Kota,78.0,6.8,9,44.1,55.3,2,Not Placed
+STU0158,Student_158,20,Male,CSE,6,Jodhpur,58.5,3.8,12,58.0,56.2,0,Placed
+STU0159,Student_159,23,Female,CE,7,Jodhpur,71.6,3.3,16,50.9,46.3,1,Not Placed
+STU0160,Student_160,21,Male,ME,1,Jaipur,80.7,2.3,11,39.7,71.7,4,Not Placed
+STU0161,Student_161,19,Male,ECE,7,Delhi,88.1,9.3,19,77.4,93.6,2,Not Placed
+STU0162,Student_162,19,Female,ECE,1,Bikaner,70.6,,16,45.9,78.4,0,Placed
+STU0163,Student_163,22,Female,ME,2,Udaipur,100.0,4.5,16,82.7,68.4,3,Higher Studies
+STU0164,Student_164,23,Male,CSE,7,Udaipur,55.3,6.3,20,73.3,69.4,0,Not Placed
+STU0165,Student_165,18,Male,EE,4,Jaipur,71.2,3.2,8,71.7,24.3,0,Not Placed
+STU0166,Student_166,22,Male,EE,1,Alwar,77.0,4.5,20,93.6,63.6,2,Not Placed
+STU0167,Student_167,23,Male,ME,3,Ajmer,75.6,4.6,12,46.4,48.6,1,Placed
+STU0168,Student_168,21,Male,CSE,4,Delhi,63.2,3.5,5,81.0,72.0,0,Placed
+STU0169,Student_169,21,Male,ME,3,Kota,83.4,6.9,12,62.2,66.1,0,Not Placed
+STU0170,Student_170,21,Male,CSE,7,Ajmer,82.5,4.1,9,100.0,57.0,0,Placed
+STU0171,Student_171,21,Male,CSE,3,Ajmer,78.6,1.4,14,60.9,71.7,0,Not Placed
+STU0172,Student_172,21,Male,CSE,1,Jaipur,82.0,3.9,9,58.3,71.5,0,Not Placed
+STU0173,Student_173,23,Male,ECE,4,Jaipur,72.9,5.0,9,73.8,92.8,4,Not Placed
+STU0174,Student_174,23,Male,CE,6,Alwar,58.6,2.7,16,63.7,80.3,3,Placed
+STU0175,Student_175,20,Male,ME,5,Udaipur,69.4,2.9,14,54.9,73.3,2,Placed
+STU0176,Student_176,19,Male,ME,1,Jaipur,79.9,3.4,17,51.5,55.8,0,Not Placed
+STU0177,Student_177,21,Female,CSE,1,Jaipur,80.0,6.9,5,90.3,53.9,1,Placed
+STU0178,Student_178,18,Male,CSE,6,Jaipur,78.5,3.5,11,48.4,79.0,3,Not Placed
+STU0179,Student_179,23,Female,CSE,4,Alwar,84.6,7.4,6,70.6,67.0,2,Not Placed
+STU0180,Student_180,18,Female,EE,4,Udaipur,71.0,3.3,6,83.9,73.7,0,Placed
+STU0181,Student_181,18,Male,CSE,8,Kota,78.3,5.2,4,84.7,84.7,0,Not Placed
+STU0182,Student_182,18,Male,CE,7,Kota,84.9,3.6,20,57.4,47.3,0,Placed
+STU0183,Student_183,20,Male,ECE,3,Bikaner,77.0,6.0,16,63.7,91.0,0,Placed
+STU0184,Student_184,23,Male,CSE,7,,63.1,2.3,6,60.6,84.5,1,Higher Studies
+STU0185,Student_185,18,Female,ME,6,Jaipur,66.5,6.0,4,42.4,39.2,2,Higher Studies
+STU0186,Student_186,21,Male,ECE,7,Bikaner,88.0,4.7,7,75.6,100.0,0,Not Placed
+STU0187,Student_187,22,Male,CE,6,Udaipur,94.7,3.2,16,67.6,74.8,0,Higher Studies
+STU0188,Student_188,18,Male,EE,4,Alwar,92.1,4.2,20,90.0,62.8,0,Not Placed
+STU0189,Student_189,20,Male,CSE,3,Kota,80.8,7.6,14,53.8,77.8,0,Placed
+STU0190,Student_190,23,Female,CSE,7,Ajmer,63.6,4.8,5,84.4,55.3,0,Placed
+STU0191,Student_191,20,Male,ECE,1,Kota,77.9,3.1,19,85.5,78.2,1,Higher Studies
+STU0192,Student_192,18,Male,EE,2,Kota,96.7,2.1,5,67.8,58.1,0,Placed
+STU0193,Student_193,23,Female,CSE,8,Udaipur,85.4,5.5,19,32.3,100.0,1,Not Placed
+STU0194,Student_194,22,Male,ECE,5,Bikaner,75.5,4.9,12,58.8,70.9,0,Not Placed
+STU0195,Student_195,18,Male,ME,1,Ajmer,85.5,5.9,4,95.6,79.7,0,Not Placed
+STU0196,Student_196,20,Male,ME,4,Udaipur,62.8,1.6,13,71.8,58.2,0,Not Placed
+STU0197,Student_197,19,Male,CSE,5,Jaipur,69.7,2.2,4,78.1,82.2,2,Placed
+STU0198,Student_198,21,Male,ME,2,,65.0,6.8,5,65.6,69.8,0,Placed
+STU0199,Student_199,20,Male,EE,2,Jodhpur,83.6,5.2,19,63.4,48.8,2,Not Placed
+STU0200,Student_200,23,Male,CSE,3,Kota,86.6,5.6,15,37.1,66.4,0,Not Placed
+STU0201,Student_201,18,Male,CSE,5,Jodhpur,76.2,2.6,11,79.7,99.0,2,Not Placed
+STU0202,Student_202,21,Male,EE,3,Alwar,67.5,2.5,5,84.3,82.9,2,Not Placed
+STU0203,Student_203,18,Female,CSE,1,Alwar,77.8,6.5,16,51.8,64.3,0,Placed
+STU0204,Student_204,23,Male,CE,6,Udaipur,72.2,6.6,9,64.1,42.0,1,Higher Studies
+STU0205,Student_205,18,Male,ECE,6,Udaipur,68.4,2.3,9,62.0,57.5,0,Not Placed
+STU0206,Student_206,19,Male,CSE,6,Udaipur,82.1,1.9,12,73.7,48.9,3,Placed
+STU0207,Student_207,21,Female,CE,5,Jodhpur,68.9,4.3,19,58.3,42.3,0,Not Placed
+STU0208,Student_208,21,Male,CSE,6,Udaipur,59.2,2.9,14,81.9,81.8,0,Not Placed
+STU0209,Student_209,23,Male,ECE,1,Alwar,61.9,2.9,10,68.1,70.9,1,Higher Studies
+STU0210,Student_210,19,Female,CSE,3,Jaipur,58.8,2.0,13,26.2,96.9,2,Placed
+STU0211,Student_211,20,Female,ECE,5,Udaipur,81.0,3.6,13,74.1,55.0,0,Not Placed
+STU0212,Student_212,18,Female,CSE,3,Delhi,79.8,2.2,12,82.9,70.0,1,Placed
+STU0213,Student_213,22,Male,CSE,5,Bikaner,79.2,2.3,18,48.6,49.1,0,Placed
+STU0214,Student_214,18,Male,EE,3,Jodhpur,85.1,5.1,7,73.5,61.1,0,Not Placed
+STU0215,Student_215,18,Female,CSE,2,Delhi,92.3,4.4,11,96.3,66.7,1,Not Placed
+STU0216,Student_216,20,Female,ME,3,Udaipur,70.9,5.5,12,68.8,64.4,0,Not Placed
+STU0217,Student_217,18,Male,CSE,6,Alwar,82.9,1.2,16,85.3,70.8,0,Placed
+STU0218,Student_218,19,Male,CE,2,Jaipur,59.0,4.5,12,59.9,84.6,2,Placed
+STU0219,Student_219,19,Male,CSE,3,Kota,94.5,8.7,7,66.7,83.0,0,Not Placed
+STU0220,Student_220,21,Female,EE,5,Ajmer,63.1,3.8,20,63.7,58.5,1,Placed
+STU0221,Student_221,23,Male,ECE,5,Bikaner,69.5,6.1,19,60.8,69.5,0,Placed
+STU0222,Student_222,22,Male,CSE,8,Ajmer,70.8,6.1,18,64.6,81.9,0,Placed
+STU0223,Student_223,18,Male,CSE,5,Udaipur,59.7,6.2,6,40.9,85.5,0,Not Placed
+STU0224,Student_224,18,Male,CSE,4,Bikaner,78.4,4.8,8,61.7,60.1,1,Placed
+STU0225,Student_225,20,Male,ECE,1,Bikaner,80.6,5.6,8,88.4,80.6,1,Not Placed
+STU0226,Student_226,23,Male,CSE,5,Jaipur,5.0,5.9,18,51.6,75.0,0,Placed
+STU0227,Student_227,19,Male,CE,2,,59.5,5.8,18,49.9,54.0,0,Placed
+STU0228,Student_228,22,Male,CSE,8,Jodhpur,100.0,2.3,5,68.0,82.0,3,Not Placed
+STU0229,Student_229,21,Male,CSE,5,Delhi,84.6,1.1,16,68.8,72.3,0,Placed
+STU0230,Student_230,19,Male,ECE,4,Delhi,100.0,1.4,7,73.0,43.9,3,Not Placed
+STU0231,Student_231,23,Male,ME,6,Delhi,68.3,4.0,13,65.2,65.6,0,Placed
+STU0232,Student_232,21,Male,CSE,2,Jodhpur,89.5,5.7,16,68.1,70.6,1,Placed
+STU0233,Student_233,20,Male,CSE,4,Ajmer,87.4,2.3,13,61.4,60.9,0,Placed
+STU0234,Student_234,20,Male,CSE,6,Jaipur,74.5,6.3,12,46.6,88.4,2,Placed
+STU0235,Student_235,18,Male,ME,7,Bikaner,94.9,3.5,11,65.9,89.0,1,Not Placed
+STU0236,Student_236,23,Male,ME,7,Jodhpur,73.1,3.5,6,78.6,64.3,0,Higher Studies
+STU0237,Student_237,22,Female,ECE,2,Delhi,73.7,2.8,19,75.2,62.6,0,Placed
+STU0238,Student_238,21,Male,CE,3,Udaipur,45.0,0.7,17,39.1,68.0,1,Not Placed
+STU0239,Student_239,19,Female,CE,1,Kota,82.9,5.0,12,71.0,67.0,1,Not Placed
+STU0240,Student_240,23,Male,ECE,8,Bikaner,62.1,7.9,14,52.7,61.1,0,Not Placed
+STU0241,Student_241,23,Female,CE,1,Jodhpur,71.4,4.4,6,89.3,20.0,0,Not Placed
+STU0242,Student_242,20,Female,CSE,4,Alwar,65.7,0.8,8,72.2,96.3,2,Placed
+STU0243,Student_243,18,Male,CSE,6,Jodhpur,73.6,6.1,13,81.3,70.0,0,Higher Studies
+STU0244,Student_244,18,Male,CSE,1,Jaipur,83.3,1.3,16,67.3,67.3,1,Placed
+STU0245,Student_245,21,Male,CSE,6,Jaipur,78.1,2.1,7,65.9,74.9,0,Placed
+STU0246,Student_246,20,Male,ECE,6,Jodhpur,86.5,4.0,16,90.9,68.8,2,Higher Studies
+STU0247,Student_247,23,Female,EE,4,Delhi,93.2,4.7,15,,63.5,3,Not Placed
+STU0248,Student_248,22,male,CSE,4,Kota,130.0,2.5,8,68.9,54.9,5,Not Placed
+STU0249,Student_249,20,Female,CSE,4,Bikaner,72.3,3.9,13,63.8,42.4,0,Not Placed
+STU0250,Student_250,21,Male,ECE,1,Jaipur,89.5,5.9,12,39.7,49.7,2,Not Placed
+STU0251,Student_251,21,Female,EE,7,Bikaner,90.4,6.2,10,72.2,53.2,0,Placed
+STU0252,Student_252,20,Female,CSE,4,Delhi,86.9,7.0,5,65.0,79.8,1,Not Placed
+STU0253,Student_253,21,Male,ECE,8,Bikaner,66.6,8.3,10,75.9,80.9,0,Placed
+STU0254,Student_254,20,Male,CSE,1,Udaipur,83.1,6.1,11,80.7,56.8,0,Not Placed
+STU0255,Student_255,19,Female,CSE,4,Jaipur,79.3,4.1,10,86.7,30.0,3,Higher Studies
+STU0256,Student_256,20,Male,EE,5,Delhi,90.6,6.2,17,72.4,70.1,0,Placed
+STU0257,Student_257,20,Female,EE,6,Delhi,71.1,5.4,8,50.3,63.7,1,Not Placed
+STU0258,Student_258,21,Male,CSE,8,Kota,58.0,5.5,15,32.6,63.3,2,Placed
+STU0259,Student_259,21,Female,EE,4,Kota,86.3,4.9,20,53.8,84.3,2,Placed
+STU0260,Student_260,18,Male,ME,2,Udaipur,47.3,2.7,16,88.3,72.1,0,Higher Studies
+STU0261,Student_261,18,Male,CE,6,Delhi,69.2,2.4,5,96.2,55.4,0,Placed
+STU0262,Student_262,19,Male,ECE,6,Ajmer,65.7,4.3,16,63.2,51.9,2,Not Placed
+STU0263,Student_263,18,Female,ECE,4,Delhi,65.6,4.8,10,43.6,66.1,0,Not Placed
+STU0264,Student_264,20,Female,ECE,7,Kota,69.0,3.1,13,56.6,56.4,0,Higher Studies
+STU0265,Student_265,21,Male,ME,3,Ajmer,92.6,5.3,9,85.2,68.9,0,Not Placed
+STU0266,Student_266,18,Male,CSE,7,Jaipur,87.8,8.7,6,57.5,85.4,0,Not Placed
+STU0267,Student_267,18,Female,CSE,4,Jaipur,75.0,1.0,6,76.4,49.3,2,Not Placed
+STU0268,Student_268,19,Male,CSE,6,Bikaner,91.6,5.7,14,69.7,71.3,0,Higher Studies
+STU0269,Student_269,23,Female,ME,8,Jodhpur,65.3,4.4,8,78.4,83.7,0,Not Placed
+STU0270,Student_270,19,Male,CSE,2,Kota,63.6,5.4,18,96.1,68.7,0,Not Placed
+STU0271,Student_271,20,Male,ME,8,Jodhpur,88.4,3.6,19,76.4,80.8,0,Placed
+STU0272,Student_272,21,Male,EE,8,Ajmer,85.0,4.2,12,69.4,65.7,0,Placed
+STU0273,Student_273,19,Male,CSE,6,Kota,72.5,4.8,7,97.9,72.6,0,Not Placed
+STU0274,Student_274,18,Female,ME,7,Udaipur,64.4,3.9,18,72.6,76.6,0,Higher Studies
+STU0275,Student_275,21,Male,CSE,2,Delhi,95.5,1.5,15,54.3,61.4,1,Higher Studies
+STU0276,Student_276,21,Male,CE,1,Udaipur,57.4,4.0,6,78.0,99.9,0,Higher Studies
+STU0277,Student_277,18,Female,CSE,5,Ajmer,70.8,1.7,17,74.2,78.7,0,Not Placed
+STU0278,Student_278,19,Male,ME,6,Kota,80.7,5.8,20,62.1,89.5,0,Not Placed
+STU0279,Student_279,18,Male,cse,4,Alwar,99.6,0.8,9,58.7,86.1,0,Not Placed
+STU0280,Student_280,23,Female,EE,1,Ajmer,82.6,6.6,7,62.2,74.9,3,Not Placed
+STU0281,Student_281,21,Female,ME,5,Alwar,83.8,5.4,10,58.5,90.8,0,Placed
+STU0282,Student_282,22,Male,ECE,4,Delhi,71.2,5.4,20,62.7,72.8,0,Not Placed
+STU0283,Student_283,22,Female,ECE,8,Jaipur,84.8,,19,53.5,59.1,0,Higher Studies
+STU0284,Student_284,20,Female,CE,3,Jaipur,79.3,3.8,18,73.2,70.2,4,Placed
+STU0285,Student_285,18,Male,ECE,4,Ajmer,58.9,6.8,11,72.0,54.9,0,Higher Studies
+STU0286,Student_286,18,Male,CSE,2,Jodhpur,87.5,3.5,11,72.5,38.5,2,Placed
+STU0287,Student_287,20,Female,EE,2,Kota,,2.3,19,66.0,57.2,0,Not Placed
+STU0288,Student_288,20,Female,ME,3,Kota,87.6,3.2,13,64.2,71.1,3,Not Placed
+STU0289,Student_289,20,Male,ME,1,Jaipur,78.4,4.4,20,90.1,85.9,2,Not Placed
+STU0290,Student_290,21,Female,CSE,5,Bikaner,66.5,2.8,16,68.1,57.2,0,Not Placed
+STU0291,Student_291,23,Female,ME,4,Udaipur,50.3,7.0,16,87.2,85.2,0,Higher Studies
+STU0292,Student_292,18,Male,CSE,2,Bikaner,79.9,4.4,10,51.1,51.8,0,Not Placed
+STU0293,Student_293,21,Male,ME,1,Delhi,91.0,3.4,13,76.4,56.2,0,Placed
+STU0294,Student_294,20,Male,CSE,3,Udaipur,89.9,1.9,5,,91.7,0,Not Placed
+STU0295,Student_295,18,Female,ME,7,Udaipur,87.8,5.5,7,58.1,70.7,0,Placed
+STU0296,Student_296,21,Male,EE,6,Ajmer,77.1,5.4,9,60.4,67.4,0,Placed
+STU0297,Student_297,23,Male,CSE,7,Jaipur,91.0,2.9,9,59.4,73.5,1,Placed
+STU0298,Student_298,21,Female,EE,7,Bikaner,89.1,0.5,20,59.5,51.9,0,Higher Studies
+STU0299,Student_299,23,Female,CSE,2,Bikaner,72.9,5.3,17,86.5,65.0,0,Not Placed
+STU0300,Student_300,20,Male,CE,8,Jaipur,86.1,4.1,14,67.7,70.0,0,Not Placed
+STU0301,Student_301,23,Female,CE,8,Bikaner,71.6,5.2,5,70.6,88.5,5,Placed
+STU0302,Student_302,18,Male,ECE,3,Alwar,84.5,8.4,6,59.7,44.9,0,Placed
+STU0303,Student_303,20,Female,ME,4,Jaipur,62.4,4.4,14,80.7,96.4,1,Higher Studies
+STU0304,Student_304,18,Male,CE,8,Ajmer,63.3,3.5,9,72.7,68.1,0,Not Placed
+STU0305,Student_305,22,Male,CSE,7,Jodhpur,90.7,2.2,17,62.1,53.3,0,Higher Studies
+STU0306,Student_306,19,Female,CSE,8,Udaipur,89.3,3.9,19,41.7,50.6,0,Placed
+STU0307,Student_307,23,Male,ME,7,Ajmer,85.6,4.8,10,70.5,74.1,0,Placed
+STU0308,Student_308,19,Male,CE,5,Kota,79.1,4.6,11,76.2,49.8,2,Higher Studies
+STU0309,Student_309,19,Female,ME,2,Delhi,49.3,7.9,19,51.3,61.6,1,Not Placed
+STU0310,Student_310,23,Female,CE,2,Jodhpur,77.1,5.5,10,62.3,66.3,0,Placed
+STU0311,Student_311,20,Female,CSE,4,Kota,83.5,4.2,12,75.6,87.2,4,Placed
+STU0312,Student_312,22,Female,CE,8,Udaipur,71.6,3.1,16,41.9,85.3,0,Not Placed
+STU0313,Student_313,18,Male,CSE,8,Bikaner,69.5,5.0,4,56.6,60.4,5,Not Placed
+STU0314,Student_314,21,Male,ECE,6,Jaipur,95.3,2.7,11,73.0,66.8,5,Not Placed
+STU0315,Student_315,18,Male,CSE,1,Udaipur,77.3,4.9,7,84.7,46.1,0,Placed
+STU0316,Student_316,21,Male,CSE,5,Ajmer,83.5,5.5,6,100.0,39.4,0,Placed
+STU0317,Student_317,18,Female,CSE,2,Delhi,87.3,4.1,6,98.3,51.6,0,Higher Studies
+STU0318,Student_318,23,Male,CSE,5,Ajmer,66.0,3.2,16,69.3,86.8,1,Placed
+STU0319,Student_319,22,Male,ME,2,Jodhpur,80.3,0.5,11,59.3,81.7,0,Not Placed
+STU0320,Student_320,21,Male,CSE,5,Jodhpur,93.8,6.8,10,81.8,75.8,4,Not Placed
+STU0321,Student_321,20,Female,CSE,3,Delhi,,5.3,4,58.3,48.1,1,Placed
+STU0322,Student_322,18,Male,CSE,7,Alwar,78.5,5.4,19,54.8,59.3,0,Placed
+STU0323,Student_323,18,Male,CSE,2,Kota,75.1,1.4,9,62.1,57.1,0,Not Placed
+STU0324,Student_324,21,Male,CSE,5,Kota,81.2,7.3,10,60.1,67.5,1,Not Placed
+STU0325,Student_325,20,Male,CSE,8,Jodhpur,80.9,3.6,15,73.6,66.6,0,Not Placed
+STU0326,Student_326,20,Male,ECE,1,Jodhpur,94.6,3.9,12,57.4,55.0,2,Placed
+STU0327,Student_327,23,Female,ME,3,Bikaner,66.0,2.4,14,68.4,75.2,0,Not Placed
+STU0328,Student_328,23,Female,ECE,3,Jaipur,74.6,0.9,13,92.5,73.4,0,Not Placed
+STU0329,Student_329,23,Male,ECE,1,Bikaner,64.6,6.8,4,69.0,59.1,0,Not Placed
+STU0330,Student_330,23,Female,CSE,5,Bikaner,65.9,7.1,7,91.3,74.6,1,Placed
+STU0331,Student_331,23,Female,CE,8,Alwar,82.5,4.2,8,86.2,86.9,0,Not Placed
+STU0332,Student_332,23,Female,ECE,4,Kota,87.7,3.1,12,76.5,91.4,1,Higher Studies
+STU0333,Student_333,22,Male,ECE,1,Alwar,70.2,3.7,20,61.3,77.4,0,Not Placed
+STU0334,Student_334,20,Male,CSE,5,Alwar,87.3,3.8,6,83.6,76.9,2,Not Placed
+STU0335,Student_335,23,Male,CSE,1,Delhi,91.3,2.1,19,63.0,66.4,1,Not Placed
+STU0336,Student_336,20,Male,CSE,1,Kota,100.0,3.9,8,67.0,85.4,0,Higher Studies
+STU0337,Student_337,20,Female,CSE,2,Jaipur,78.8,4.8,19,72.3,53.9,1,Higher Studies
+STU0338,Student_338,19,Female,ECE,5,Ajmer,70.3,6.5,6,66.9,83.7,0,Placed
+STU0339,Student_339,22,Female,ECE,4,Jodhpur,66.0,4.5,18,,65.7,0,Not Placed
+STU0340,Student_340,23,Male,ECE,7,Jodhpur,64.8,1.3,6,42.6,92.4,0,Placed
+STU0341,Student_341,18,Male,ME,2,Jaipur,93.0,5.2,17,82.3,78.8,1,Placed
+STU0342,Student_342,21,Female,CE,1,Alwar,59.8,4.0,19,76.1,69.0,3,Placed
+STU0343,Student_343,18,Female,ME,7,Bikaner,92.6,7.2,20,39.5,66.5,0,Not Placed
+STU0344,Student_344,22,Male,EE,6,Delhi,67.6,7.4,17,55.1,77.9,0,Placed
+STU0345,Student_345,21,Female,CSE,7,Alwar,,7.4,18,69.9,77.2,1,Not Placed
+STU0346,Student_346,22,Female,CSE,1,Jodhpur,76.2,3.4,18,74.1,64.0,0,Not Placed
+STU0347,Student_347,20,Male,CSE,1,Udaipur,69.6,8.5,9,42.7,71.4,3,Placed
+STU0348,Student_348,21,Male,ME,8,Bikaner,89.2,5.2,18,65.6,83.4,0,Higher Studies
+STU0349,Student_349,20,Male,EE,5,Jodhpur,99.8,7.8,7,75.6,49.5,5,Not Placed
+STU0350,Student_350,18,Male,CSE,5,Udaipur,70.1,3.5,11,61.4,80.9,1,Not Placed
+STU0351,Student_351,18,Male,EE,2,Alwar,72.8,3.9,18,71.1,77.8,1,Placed
+STU0352,Student_352,21,Female,CSE,4,Jaipur,76.0,5.0,6,59.2,87.8,1,Placed
+STU0353,Student_353,21,Male,EE,2,Jaipur,84.5,4.8,18,81.5,59.3,0,Not Placed
+STU0354,Student_354,23,Male,CSE,3,Bikaner,76.2,7.0,16,54.2,70.1,0,Placed
+STU0355,Student_355,22,Male,CSE,1,Jodhpur,94.6,4.0,12,48.7,73.1,0,Not Placed
+STU0356,Student_356,23,Male,ECE,7,Kota,91.8,6.8,5,67.5,81.1,1,Not Placed
+STU0357,Student_357,22,Female,CSE,6,Udaipur,63.8,6.0,11,44.1,76.4,1,Placed
+STU0358,Student_358,23,Male,CSE,1,Delhi,84.3,4.1,20,33.3,51.4,3,Higher Studies
+STU0359,Student_359,20,Male,CSE,1,Jodhpur,96.2,5.8,16,84.3,74.4,0,Placed
+STU0360,Student_360,21,Female,CE,2,Delhi,72.1,3.6,4,51.3,100.0,0,Higher Studies
+STU0361,Student_361,18,Male,ECE,6,Jodhpur,74.5,9.2,5,45.7,79.2,0,Placed
+STU0362,Student_362,22,Male,CSE,6,Kota,71.7,0.5,18,54.0,94.6,1,Not Placed
+STU0363,Student_363,22,Male,ECE,6,Kota,71.9,5.8,15,53.3,85.6,0,Placed
+STU0364,Student_364,18,Male,ME,2,Bikaner,58.0,1.0,17,64.7,90.4,0,Not Placed
+STU0365,Student_365,23,Male,CSE,1,Bikaner,62.1,4.0,5,49.5,74.6,2,Not Placed
+STU0366,Student_366,22,Male,CSE,2,Kota,78.9,4.3,10,,77.8,1,Placed
+STU0367,Student_367,20,Male,CSE,5,Ajmer,96.2,7.5,9,77.3,73.8,0,Not Placed
+STU0368,Student_368,21,Female,CSE,5,Kota,70.6,3.1,17,46.6,70.1,0,Placed
+STU0369,Student_369,18,Male,ME,2,Jaipur,70.3,7.1,11,57.1,81.1,1,Not Placed
+STU0370,Student_370,21,Male,CSE,6,Jaipur,98.4,2.1,5,58.6,62.2,0,Higher Studies
+STU0371,Student_371,22,Female,ECE,8,Ajmer,64.7,7.2,20,64.4,98.3,1,Placed
+STU0372,Student_372,22,Male,ME,1,Alwar,58.1,3.6,8,84.3,56.1,0,Placed
+STU0373,Student_373,18,Female,CSE,2,Udaipur,68.1,4.6,17,85.2,82.2,2,Placed
+STU0374,Student_374,20,Male,ECE,2,Alwar,70.0,3.8,6,100.0,90.7,0,Not Placed
+STU0375,Student_375,19,Female,CSE,2,Delhi,57.0,7.1,8,30.7,67.4,0,Placed
+STU0376,Student_376,18,Male,EE,8,Alwar,76.5,6.7,19,52.2,53.3,1,Placed
+STU0377,Student_377,19,Male,ECE,8,Jodhpur,89.4,5.4,20,96.0,87.3,1,Placed
+STU0378,Student_378,23,Male,CE,3,Alwar,62.6,2.2,14,38.2,73.1,0,Not Placed
+STU0379,Student_379,19,Female,ECE,5,Jodhpur,79.1,3.1,20,95.7,82.2,1,Higher Studies
+STU0380,Student_380,20,Male,CSE,7,Ajmer,82.8,2.4,19,69.4,68.4,0,Placed
+STU0381,Student_381,23,Male,ME,6,Jaipur,77.0,0.5,5,69.9,96.0,3,Not Placed
+STU0382,Student_382,19,Male,EE,4,Bikaner,80.2,7.0,7,46.5,38.2,2,Not Placed
+STU0383,Student_383,23,Female,ECE,8,Jodhpur,80.4,3.8,10,59.8,75.6,0,Not Placed
+STU0384,Student_384,19,Male,CE,7,Jaipur,68.2,3.8,5,95.0,90.1,2,Placed
+STU0385,Student_385,20,Female,EE,8,Udaipur,96.0,7.5,9,66.2,71.6,0,Not Placed
+STU0386,Student_386,19,Male,CSE,6,Delhi,93.0,3.5,20,59.9,74.5,0,Higher Studies
+STU0387,Student_387,19,Male,CSE,4,Udaipur,92.3,2.8,10,73.5,63.5,4,Placed
+STU0388,Student_388,19,Male,ECE,3,Ajmer,90.2,4.1,8,63.9,70.3,1,Not Placed
+STU0389,Student_389,18,Male,CSE,2,Alwar,59.1,2.2,8,72.5,44.9,0,Placed
+STU0390,Student_390,18,Male,CE,3,Alwar,89.1,5.2,19,53.4,59.2,0,Placed
+STU0391,Student_391,18,Male,EE,8,Kota,85.9,3.8,12,65.8,58.2,0,Placed
+STU0392,Student_392,20,Female,CSE,3,Kota,59.6,3.5,8,56.7,80.0,5,Not Placed
+STU0393,Student_393,23,Male,CSE,7,Kota,75.4,3.3,11,38.1,61.4,0,Placed
+STU0394,Student_394,22,Male,CE,1,Udaipur,81.3,4.3,12,74.7,61.9,0,Not Placed
+STU0395,Student_395,19,Male,CSE,8,Jodhpur,98.0,4.7,8,47.3,64.3,0,Not Placed
+STU0396,Student_396,19,Male,CE,8,Delhi,86.7,3.5,13,64.4,58.8,0,Not Placed
+STU0397,Student_397,20,Male,CSE,7,Kota,67.6,3.8,5,81.8,74.0,0,Not Placed
+STU0398,Student_398,19,Male,ME,5,Ajmer,98.3,4.3,12,43.0,75.7,0,Placed
+STU0399,Student_399,18,Male,CSE,4,Ajmer,78.5,4.1,14,76.7,82.4,0,Higher Studies
+STU0400,Student_400,22,Female,ECE,2,Kota,74.9,4.6,7,62.2,79.8,0,Not Placed
+STU0401,Student_401,21,Female,ECE,7,Alwar,74.1,3.1,5,51.5,78.3,3,Not Placed
+STU0402,Student_402,19,Male,ECE,4,Kota,,6.5,9,99.4,65.1,0,Not Placed
+STU0403,Student_403,18,Male,CSE,6,Delhi,76.7,4.7,17,67.0,64.1,1,Placed
+STU0404,Student_404,21,Female,ME,4,Kota,84.0,3.5,4,57.9,56.9,1,Placed
+STU0405,Student_405,22,Male,CE,6,Delhi,73.4,5.2,10,54.5,56.7,2,Not Placed
+STU0406,Student_406,21,Male,CSE,7,Ajmer,83.0,4.4,4,81.1,72.9,2,Not Placed
+STU0407,Student_407,18,Male,CSE,8,Kota,67.6,1.0,4,57.2,59.2,0,Higher Studies
+STU0408,Student_408,23,Female,CSE,8,Udaipur,76.3,5.2,4,79.1,92.0,0,Higher Studies
+STU0409,Student_409,23,Female,ME,5,Bikaner,81.8,2.5,7,67.0,69.4,0,Placed
+STU0410,Student_410,21,Male,ECE,7,Udaipur,80.3,6.4,7,84.9,92.5,0,Placed
+STU0411,Student_411,20,Male,ECE,6,Ajmer,58.7,4.0,14,50.3,78.6,1,Placed
+STU0412,Student_412,21,Male,CSE,4,Delhi,72.7,6.1,4,52.6,58.3,1,Placed
+STU0413,Student_413,19,Female,CSE,4,Udaipur,98.1,3.2,13,62.5,69.1,2,Not Placed
+STU0414,Student_414,19,Male,ECE,6,Delhi,72.1,4.6,12,63.8,44.9,0,Not Placed
+STU0415,Student_415,23,Male,ECE,3,Udaipur,78.2,6.9,7,61.3,72.9,3,Not Placed
+STU0416,Student_416,20,Female,EE,5,Udaipur,77.0,4.0,9,100.0,59.7,0,Placed
+STU0417,Student_417,18,Male,CSE,1,Delhi,96.8,3.3,19,100.0,53.3,0,Placed
+STU0418,Student_418,19,Female,ME,8,Jodhpur,93.5,5.8,5,71.8,92.8,0,Placed
+STU0419,Student_419,23,Male,CSE,2,Udaipur,87.7,5.8,13,73.7,85.5,1,Not Placed
+STU0420,Student_420,22,Male,CSE,4,Kota,66.3,3.4,20,63.2,85.0,0,Placed
+STU0421,Student_421,23,Male,ME,2,Bikaner,82.3,0.5,16,50.2,81.7,3,Not Placed
+STU0422,Student_422,19,Female,ME,1,Ajmer,84.8,3.3,16,64.1,51.5,3,Not Placed
+STU0423,Student_423,19,Female,EE,7,Jodhpur,69.6,5.9,20,79.3,64.0,2,Not Placed
+STU0424,Student_424,23,Female,CSE,2,Delhi,67.6,2.9,8,87.9,64.9,0,Not Placed
+STU0425,Student_425,18,Male,CSE,1,Jodhpur,98.5,4.5,14,82.9,44.4,2,Not Placed
+STU0426,Student_426,21,Female,ME,8,Jaipur,74.4,3.2,10,42.8,61.6,2,Not Placed
+STU0427,Student_427,19,Male,ECE,6,Jaipur,97.4,0.6,13,62.4,61.8,0,Not Placed
+STU0428,Student_428,23,Male,CSE,3,Udaipur,90.0,3.1,20,43.5,71.9,0,Not Placed
+STU0429,Student_429,23,Female,CSE,8,Udaipur,82.9,5.8,18,85.7,100.0,0,Not Placed
+STU0430,Student_430,20,Male,CSE,4,Kota,83.4,0.5,5,60.4,69.7,0,Not Placed
+STU0431,Student_431,21,Male,EE,1,Bikaner,61.2,5.0,7,66.2,71.9,0,Placed
+STU0432,Student_432,22,Male,CSE,2,Ajmer,80.5,2.1,6,74.7,66.2,4,Not Placed
+STU0433,Student_433,18,Male,CSE,4,Jodhpur,95.0,5.7,10,100.0,81.1,0,Higher Studies
+STU0434,Student_434,22,Male,CSE,3,Jaipur,86.2,5.9,13,71.3,53.9,0,Placed
+STU0435,Student_435,21,Male,CSE,6,Udaipur,79.9,4.2,10,63.2,98.4,4,Placed
+STU0436,Student_436,21,Male,CSE,7,Alwar,,4.2,11,47.1,68.1,0,Placed
+STU0437,Student_437,21,Female,ECE,4,,75.8,2.9,9,90.3,64.1,2,Not Placed
+STU0438,Student_438,22,Female,CSE,7,Ajmer,70.6,,4,64.1,84.6,0,Placed
+STU0439,Student_439,21,Male,CE,1,Jodhpur,79.8,7.9,7,93.5,56.6,0,Not Placed
+STU0440,Student_440,23,Male,CSE,3,Udaipur,87.2,2.8,17,84.7,80.8,0,Placed
+STU0441,Student_441,22,Male,ECE,2,Udaipur,57.4,7.6,20,59.6,91.1,0,Placed
+STU0442,Student_442,21,Male,EE,3,Jaipur,81.4,2.8,14,44.7,66.4,0,Not Placed
+STU0443,Student_443,23,Male,ME,3,Jaipur,87.7,5.6,17,71.4,100.0,1,Placed
+STU0444,Student_444,20,Female,ECE,5,Udaipur,74.8,2.2,12,57.2,79.7,0,Higher Studies
+STU0445,Student_445,21,Male,CSE,3,Delhi,91.3,5.5,18,67.6,79.9,2,Placed
+STU0446,Student_446,22,Male,CSE,3,Udaipur,85.7,3.8,15,83.8,90.5,0,Not Placed
+STU0447,Student_447,19,Male,ME,8,Ajmer,100.0,3.9,13,40.5,94.5,0,Placed
+STU0448,Student_448,21,Male,EE,4,Udaipur,69.0,5.7,9,71.2,73.9,1,Placed
+STU0449,Student_449,19,Female,ME,2,Kota,88.0,3.6,9,79.2,82.0,0,Higher Studies
+STU0450,Student_450,23,Female,ECE,8,Bikaner,65.8,1.6,11,79.9,90.9,1,Higher Studies
+STU0451,Student_451,20,Male,ME,8,Kota,58.6,6.0,4,45.2,52.6,4,Placed
+STU0452,Student_452,18,Female,ECE,4,Kota,53.6,2.2,20,73.7,44.1,1,Not Placed
+STU0453,Student_453,20,Male,CSE,4,Delhi,84.5,5.5,20,86.3,69.1,0,Not Placed
+STU0454,Student_454,21,Female,ECE,1,Delhi,80.2,6.4,18,72.5,43.7,1,Placed
+STU0455,Student_455,19,Female,EE,4,Alwar,72.3,3.7,10,65.1,65.3,1,Placed
+STU0456,Student_456,19,Male,CSE,5,Udaipur,56.7,6.9,6,85.2,74.7,2,Higher Studies
+STU0457,Student_457,22,Male,ME,5,Kota,69.7,5.5,14,55.9,65.9,0,Higher Studies
+STU0458,Student_458,19,Male,CSE,8,Delhi,78.0,3.1,12,42.5,67.9,0,Higher Studies
+STU0459,Student_459,22,Male,ECE,7,Jaipur,87.5,7.3,13,63.8,55.0,0,Not Placed
+STU0460,Student_460,23,Female,CSE,1,Udaipur,77.8,2.2,5,75.6,81.8,0,Not Placed
+STU0461,Student_461,18,Male,ECE,7,Ajmer,81.0,3.7,4,83.6,54.0,0,Placed
+STU0462,Student_462,21,Male,ME,7,Bikaner,73.5,4.1,19,75.5,38.5,0,Placed
+STU0463,Student_463,22,Female,CSE,8,Jodhpur,99.0,5.7,20,80.4,66.9,2,Placed
+STU0464,Student_464,18,Female,ME,6,Udaipur,65.8,6.7,9,83.7,83.7,3,Not Placed
+STU0465,Student_465,19,Male,CE,8,Jodhpur,69.6,6.6,17,61.6,71.2,1,Not Placed
+STU0466,Student_466,19,Male,EE,2,Kota,72.1,4.9,18,64.6,52.5,0,Not Placed
+STU0467,Student_467,18,Male,CSE,2,Bikaner,84.5,3.9,17,87.6,71.5,0,Higher Studies
+STU0468,Student_468,19,Male,CSE,4,Jodhpur,65.5,0.8,6,47.6,76.6,5,Higher Studies
+STU0469,Student_469,23,Female,CSE,4,Kota,79.6,1.9,15,73.9,71.4,5,Higher Studies
+STU0470,Student_470,23,Male,EE,6,Jaipur,80.0,8.0,5,55.5,66.0,3,Placed
+STU0471,Student_471,18,Male,EE,4,Jodhpur,69.7,0.8,6,84.6,77.3,2,Not Placed
+STU0472,Student_472,22,Male,ECE,2,Bikaner,82.0,2.9,4,66.7,43.9,0,Not Placed
+STU0473,Student_473,22,Male,CE,7,Alwar,65.9,6.8,9,67.1,56.6,2,Placed
+STU0474,Student_474,18,Female,ECE,8,Udaipur,64.6,4.9,8,94.7,50.4,0,Higher Studies
+STU0475,Student_475,22,Female,ECE,3,Kota,79.2,6.4,4,49.8,90.2,0,Higher Studies
+STU0476,Student_476,22,Male,CSE,5,Udaipur,58.1,5.6,4,70.5,80.7,1,Placed
+STU0477,Student_477,23,Male,ME,3,Bikaner,52.3,7.4,19,64.1,72.8,0,Placed
+STU0478,Student_478,22,Male,CSE,3,Delhi,84.4,5.1,15,75.5,48.2,0,Not Placed
+STU0479,Student_479,20,Female,CE,2,Kota,90.6,5.8,11,97.9,81.2,0,Not Placed
+STU0480,Student_480,21,Female,CE,3,Jodhpur,72.4,3.1,19,57.3,90.8,0,Higher Studies
+STU0481,Student_481,19,Male,ME,8,Kota,70.0,5.7,4,47.8,78.6,3,Placed
+STU0482,Student_482,20,Male,CSE,6,Udaipur,90.1,3.7,7,54.1,69.5,0,Placed
+STU0483,Student_483,22,Female,CSE,1,Jaipur,64.3,3.6,13,63.3,79.5,0,Placed
+STU0484,Student_484,23,Male,CSE,4,Kota,61.6,6.3,14,68.0,74.1,0,Placed
+STU0485,Student_485,18,Female,CSE,1,Jodhpur,86.5,6.3,20,68.8,83.9,0,Placed
+STU0486,Student_486,22,Male,CSE,7,Delhi,78.1,7.9,10,95.8,83.6,0,Higher Studies
+STU0487,Student_487,23,Male,EE,8,Alwar,90.8,7.7,15,93.0,66.7,1,Placed
+STU0488,Student_488,21,Male,ECE,8,Ajmer,52.3,6.3,10,87.8,60.1,0,Placed
+STU0489,Student_489,22,Male,CSE,5,Jaipur,61.2,1.1,15,100.0,64.0,1,Placed
+STU0490,Student_490,18,Male,CSE,8,Alwar,78.2,8.2,18,80.2,78.0,5,Placed
+STU0491,Student_491,23,Female,CSE,4,Delhi,83.0,6.3,5,84.7,64.9,1,Not Placed
+STU0492,Student_492,23,Male,ECE,8,Kota,88.2,3.0,17,79.9,58.7,0,Not Placed
+STU0493,Student_493,23,Male,ECE,3,Udaipur,80.1,6.0,16,77.3,70.0,0,Not Placed
+STU0494,Student_494,21,Male,EE,5,Bikaner,80.0,2.4,7,73.3,86.6,2,Not Placed
+STU0495,Student_495,22,Male,ECE,4,Udaipur,73.3,5.7,17,60.7,72.0,0,Placed
+STU0496,Student_496,21,Male,EE,6,Alwar,97.1,1.9,17,47.1,65.9,2,Not Placed
+STU0497,Student_497,19,Male,CE,6,Jodhpur,64.8,2.9,19,64.9,74.8,2,Placed
+STU0498,Student_498,19,Female,CSE,6,Udaipur,82.3,5.9,10,76.1,71.3,3,Not Placed
+STU0499,Student_499,22,Male,EE,6,Jaipur,66.1,6.6,5,68.2,41.0,3,Placed
+STU0500,Student_500,21,Male,CSE,3,Udaipur,84.4,5.2,13,50.0,80.5,0,Not Placed
+STU0501,Student_501,18,Male,CE,8,Jodhpur,65.6,3.9,20,64.3,76.1,0,Placed
+STU0502,Student_502,23,Female,CSE,1,Ajmer,86.9,0.5,8,63.5,70.2,4,Not Placed
+STU0503,Student_503,23,Female,CE,4,Kota,79.3,4.1,15,66.0,85.9,0,Higher Studies
+STU0504,Student_504,22,Female,CE,3,Bikaner,98.9,5.6,9,74.9,88.2,0,Not Placed
+STU0505,Student_505,19,Male,CE,6,Alwar,74.6,3.9,12,,82.0,1,Not Placed
+STU0506,Student_506,19,Male,CE,7,Kota,83.1,4.5,4,59.0,57.2,1,Higher Studies
+STU0507,Student_507,23,Male,CSE,8,Udaipur,68.6,4.1,18,82.7,57.8,3,Not Placed
+STU0508,Student_508,22,Male,CSE,1,Delhi,74.5,3.9,9,85.1,86.8,1,Placed
+STU0509,Student_509,21,Male,CSE,7,Kota,79.3,4.7,9,72.1,41.8,0,Placed
+STU0510,Student_510,19,Male,CSE,5,Ajmer,59.7,4.0,16,,67.8,4,Not Placed
+STU0511,Student_511,21,Male,ME,7,Udaipur,61.0,7.4,4,82.7,76.6,2,Not Placed
+STU0512,Student_512,19,Male,CSE,5,Bikaner,85.2,0.5,16,49.4,43.7,1,Placed
+STU0513,Student_513,19,Female,EE,5,Jodhpur,76.2,3.4,10,83.9,73.5,0,Placed
+STU0514,Student_514,20,Male,ME,6,Ajmer,70.9,2.8,18,54.4,84.3,0,Higher Studies
+STU0515,Student_515,19,Male,CE,5,Udaipur,69.2,,15,55.9,47.7,1,Placed
+STU0516,Student_516,18,Female,CSE,2,Ajmer,69.6,4.7,4,70.1,94.9,0,Placed
+STU0517,Student_517,22,Male,CE,4,Kota,79.4,18.0,18,32.7,54.9,0,Placed
+STU0518,Student_518,22,Female,EE,4,Bikaner,83.3,8.4,7,69.8,78.6,1,Not Placed
+STU0519,Student_519,21,Male,ECE,6,Jodhpur,52.9,3.0,16,82.7,68.7,0,Placed
+STU0520,Student_520,19,Male,ECE,2,Udaipur,95.0,4.5,8,40.7,71.0,0,Not Placed
+STU0521,Student_521,18,Female,ME,7,Jaipur,94.1,4.9,5,84.4,50.7,0,Placed
+STU0522,Student_522,21,Female,CSE,3,Alwar,50.0,2.9,4,55.8,88.9,0,Not Placed
+STU0523,Student_523,20,Female,ECE,7,Jodhpur,91.0,5.8,19,70.3,74.9,1,Not Placed
+STU0524,Student_524,21,Male,CSE,8,Jaipur,90.7,4.0,9,58.1,94.3,0,Placed
+STU0525,Student_525,21,Male,CSE,3,Ajmer,78.0,2.4,19,,51.1,0,Not Placed
+STU0526,Student_526,19,Male,CSE,5,Delhi,62.4,,17,83.4,67.3,1,Placed
+STU0527,Student_527,20,Male,CSE,1,Jodhpur,90.2,2.5,6,77.4,73.1,4,Placed
+STU0528,Student_528,21,Female,CSE,3,Ajmer,75.1,6.6,18,66.9,70.9,1,Not Placed
+STU0529,Student_529,18,Male,CSE,1,Jaipur,84.6,8.3,6,59.4,80.0,0,Placed
+STU0530,Student_530,18,Female,EE,4,Kota,100.0,5.0,5,65.9,67.1,0,Not Placed
+STU0531,Student_531,22,Male,ECE,1,Kota,81.0,4.7,4,77.5,100.0,2,Placed
+STU0532,Student_532,20,Male,EE,4,Delhi,67.0,4.8,12,78.0,70.6,0,Placed
+STU0533,Student_533,20,Male,CSE,2,Alwar,74.0,6.9,12,75.8,26.7,1,Placed
+STU0534,Student_534,22,Female,CSE,2,Jodhpur,68.5,6.8,10,46.5,71.3,0,Not Placed
+STU0535,Student_535,21,Female,ECE,6,Jodhpur,,4.3,6,66.6,88.9,0,Not Placed
+STU0536,Student_536,20,Female,CSE,6,Jodhpur,68.3,5.0,14,56.9,56.2,2,Not Placed
+STU0537,Student_537,18,Female,CSE,5,Alwar,72.3,5.8,10,77.6,55.2,1,Placed
+STU0538,Student_538,18,Female,ME,3,Ajmer,62.6,2.2,12,54.8,57.4,1,Placed
+STU0539,Student_539,19,Female,CSE,5,Bikaner,76.4,6.9,4,74.2,53.9,0,Not Placed
+STU0540,Student_540,20,Male,ECE,4,Bikaner,80.1,8.0,17,62.5,62.8,0,Not Placed
+STU0541,Student_541,21,Male,ME,5,Delhi,45.8,6.8,9,36.9,83.6,0,Placed
+STU0542,Student_542,22,Male,CSE,1,Jodhpur,81.1,2.0,10,81.9,92.9,0,Not Placed
+STU0543,Student_543,22,Female,CSE,4,Ajmer,77.5,0.6,13,66.6,33.6,0,Placed
+STU0544,Student_544,21,Female,CE,6,Kota,,5.9,10,87.4,64.3,0,Not Placed
+STU0545,Student_545,23,Male,ECE,2,Jaipur,100.0,3.0,5,40.4,74.5,0,Higher Studies
+STU0546,Student_546,19,Female,CSE,6,Ajmer,89.5,5.1,7,62.3,73.0,5,Higher Studies
+STU0547,Student_547,22,Female,EE,3,Alwar,64.8,7.6,20,63.5,98.5,2,Not Placed
+STU0548,Student_548,20,Male,CSE,4,Bikaner,88.1,3.2,4,71.3,39.8,3,Placed
+STU0549,Student_549,19,Male,ME,4,Bikaner,92.9,3.7,13,45.8,31.2,0,Not Placed
+STU0550,Student_550,20,Female,EE,1,Kota,79.6,5.1,18,75.7,100.0,4,Not Placed
+STU0551,Student_551,18,Male,CSE,3,Kota,82.3,1.9,13,97.6,81.3,0,Placed
+STU0552,Student_552,19,Female,CSE,2,Alwar,82.1,3.0,15,74.6,61.4,0,Not Placed
+STU0553,Student_553,22,Male,CSE,7,Jaipur,53.0,4.5,19,68.5,72.6,2,Higher Studies
+STU0554,Student_554,19,Female,CSE,4,Kota,75.8,3.9,12,45.0,73.6,0,Higher Studies
+STU0555,Student_555,19,Female,cse,4,Delhi,75.1,5.7,18,54.6,61.1,0,Placed
+STU0556,Student_556,19,Female,ME,1,Jaipur,95.2,10.0,20,66.1,72.1,0,Not Placed
+STU0557,Student_557,23,Male,CSE,5,Kota,82.0,4.7,17,58.5,75.3,0,Not Placed
+STU0558,Student_558,19,Female,ECE,8,Udaipur,74.4,2.8,5,83.4,100.0,1,Placed
+STU0559,Student_559,20,Female,EE,2,Ajmer,76.9,7.3,7,75.5,84.5,1,Not Placed
+STU0560,Student_560,18,Male,CE,6,Kota,90.3,1.3,10,100.0,96.1,1,Not Placed
+STU0561,Student_561,21,Female,ECE,3,Delhi,75.8,1.7,16,51.3,49.8,0,Not Placed
+STU0562,Student_562,19,Male,CSE,4,Jodhpur,69.6,3.3,18,67.5,64.8,1,Placed
+STU0563,Student_563,22,Male,ECE,4,Kota,74.7,3.9,4,44.9,73.6,0,Not Placed
+STU0564,Student_564,19,Male,ECE,6,Bikaner,89.3,3.3,14,31.4,41.2,0,Higher Studies
+STU0565,Student_565,22,Male,CSE,2,Bikaner,84.0,4.4,13,78.6,87.7,5,Not Placed
+STU0566,Student_566,20,Male,CSE,8,Bikaner,78.5,5.0,8,74.9,79.6,0,Not Placed
+STU0567,Student_567,22,Female,EE,5,Jodhpur,80.3,6.6,19,53.3,64.5,1,Placed
+STU0568,Student_568,21,Male,CSE,4,Bikaner,71.3,4.7,14,68.5,67.2,0,Placed
+STU0569,Student_569,18,Female,CSE,8,Udaipur,75.7,3.4,9,56.9,88.8,1,Not Placed
+STU0570,Student_570,22,Male,CSE,2,Kota,70.0,6.5,12,59.1,58.1,1,Placed
+STU0571,Student_571,22,Male,CSE,6,Alwar,74.5,2.9,16,61.9,89.4,0,Higher Studies
+STU0572,Student_572,18,Male,CE,1,Bikaner,94.2,1.2,11,52.7,66.2,0,Placed
+STU0573,Student_573,21,Female,ME,5,Jaipur,65.1,6.9,17,55.5,81.3,1,Not Placed
+STU0574,Student_574,19,Male,ME,3,Alwar,69.7,6.8,4,56.0,71.3,0,Placed
+STU0575,Student_575,22,Female,CSE,4,Jodhpur,62.9,2.9,20,73.8,100.0,0,Higher Studies
+STU0576,Student_576,18,Female,CSE,2,Udaipur,60.3,3.7,8,22.6,56.7,1,Placed
+STU0577,Student_577,20,Male,ECE,1,Jaipur,75.8,2.7,5,63.4,61.4,0,Placed
+STU0578,Student_578,18,Male,CSE,3,Jaipur,70.6,5.2,12,49.6,47.4,2,Placed
+STU0579,Student_579,20,Male,CSE,7,Jaipur,99.1,8.0,7,50.2,53.5,0,Not Placed
+STU0580,Student_580,21,Female,cse,2,Jaipur,74.6,5.9,20,58.6,80.7,0,Placed
+STU0581,Student_581,19,Male,CSE,2,Alwar,93.5,6.6,20,66.8,94.0,1,Placed
+STU0582,Student_582,18,Female,ECE,3,Alwar,89.6,6.1,19,63.6,82.4,0,Placed
+STU0583,Student_583,23,Male,CSE,1,Kota,75.5,25.0,11,50.0,69.9,0,Not Placed
+STU0584,Student_584,22,Female,CSE,7,Bikaner,100.0,6.7,14,78.5,56.6,0,Placed
+STU0585,Student_585,21,Female,CSE,8,Ajmer,81.2,6.0,13,52.6,83.5,0,Placed
+STU0586,Student_586,18,Female,EE,8,Kota,96.2,7.4,16,55.2,55.8,0,Placed
+STU0587,Student_587,22,Male,CE,6,Kota,94.8,3.6,20,71.6,49.8,0,Not Placed
+STU0588,Student_588,18,Female,EE,1,Udaipur,83.0,1.0,13,72.1,65.4,0,Not Placed
+STU0589,Student_589,20,Male,ECE,5,Udaipur,87.0,6.6,19,57.2,39.5,0,Not Placed
+STU0590,Student_590,18,Male,CSE,4,Bikaner,85.5,5.2,8,20.0,49.3,1,Higher Studies
+STU0591,Student_591,23,Female,ECE,3,Ajmer,64.3,3.9,16,52.8,98.3,1,Higher Studies
+STU0592,Student_592,18,Female,ECE,6,Udaipur,78.7,4.0,20,69.6,46.5,0,Placed
+STU0593,Student_593,18,Female,CE,7,Bikaner,90.9,9.6,12,78.0,52.2,1,Not Placed
+STU0594,Student_594,23,Female,CSE,3,Bikaner,96.3,3.2,17,65.7,71.1,2,Not Placed
+STU0595,Student_595,21,Male,ECE,3,Alwar,69.4,2.8,20,59.3,71.9,0,Higher Studies
+STU0596,Student_596,18,Male,CSE,1,Delhi,84.3,4.7,7,100.0,66.5,1,Not Placed
+STU0597,Student_597,23,Female,CSE,4,Alwar,79.8,6.9,18,61.0,39.9,0,Not Placed
+STU0598,Student_598,22,Male,ME,5,Ajmer,76.6,9.1,14,76.8,82.7,3,Placed
+STU0599,Student_599,20,Male,ECE,8,Udaipur,82.3,5.8,15,45.6,63.4,0,Higher Studies
+STU0600,Student_600,20,Male,CSE,2,Ajmer,80.6,2.0,12,49.6,88.3,0,Placed
+STU0601,Student_601,18,Male,CSE,2,Kota,84.5,8.4,16,77.4,60.3,1,Placed
+STU0602,Student_602,21,Male,ECE,3,Kota,95.3,4.5,18,83.7,84.7,0,Placed
+STU0603,Student_603,21,Male,CE,8,Ajmer,87.4,2.8,18,60.8,89.4,0,Placed
+STU0604,Student_604,22,Male,EE,8,Delhi,81.7,2.3,8,37.4,63.0,1,Not Placed
+STU0605,Student_605,18,Male,EE,4,Delhi,100.0,6.2,17,64.3,83.2,0,Placed
+STU0606,Student_606,20,Female,CE,7,Alwar,91.3,5.0,20,70.0,50.1,1,Placed
+STU0607,Student_607,21,Male,CSE,7,Ajmer,,5.2,6,68.6,74.0,2,Higher Studies
+STU0608,Student_608,18,Male,ME,6,Udaipur,63.4,7.1,5,58.0,88.3,0,Placed
+STU0609,Student_609,21,Female,CSE,1,Alwar,66.1,2.9,4,64.6,77.8,0,Not Placed
+STU0610,Student_610,23,Male,CSE,4,Jodhpur,89.2,7.2,13,55.0,100.0,1,Placed
+STU0611,Student_611,21,Female,CE,4,Delhi,70.4,3.5,20,49.2,78.6,0,Placed
+STU0612,Student_612,20,Female,CSE,1,Jaipur,65.9,8.8,15,79.1,64.5,1,Not Placed
+STU0613,Student_613,19,Male,EE,8,Alwar,,5.7,4,68.6,100.0,0,Not Placed
+STU0614,Student_614,22,male,ECE,7,Kota,69.8,2.7,15,64.6,94.5,0,Placed
+STU0615,Student_615,22,Female,ME,7,Alwar,88.2,0.5,20,58.9,46.0,0,Higher Studies
+STU0616,Student_616,20,Female,ME,8,Ajmer,76.1,6.1,6,64.1,58.2,1,Higher Studies
+STU0617,Student_617,21,Male,EE,7,Jaipur,61.5,3.8,14,69.6,54.4,0,Higher Studies
+STU0618,Student_618,18,Male,ME,3,Ajmer,78.4,4.2,20,94.7,79.7,0,Not Placed
+STU0619,Student_619,21,Male,ECE,4,Bikaner,80.7,6.0,6,77.5,78.6,0,Placed
+STU0620,Student_620,20,Female,CSE,2,Kota,72.2,6.5,11,56.3,78.5,0,Not Placed
+STU0621,Student_621,22,Male,ECE,1,Kota,91.9,6.9,7,56.5,45.6,0,Not Placed
+STU0622,Student_622,21,Female,CSE,7,Delhi,72.9,2.2,10,54.0,60.4,0,Placed
+STU0623,Student_623,22,Female,ME,6,Alwar,91.3,7.4,17,63.8,67.8,0,Not Placed
+STU0624,Student_624,18,Male,ECE,7,Delhi,85.2,3.3,17,54.0,42.7,0,Placed
+STU0625,Student_625,22,Male,ME,7,Jaipur,89.1,0.5,7,74.6,56.9,0,Not Placed
+STU0626,Student_626,22,Male,CSE,5,Alwar,64.8,2.1,19,24.7,90.3,1,Placed
+STU0627,Student_627,19,Male,CSE,3,Bikaner,79.2,4.9,4,75.6,46.7,2,Not Placed
+STU0628,Student_628,19,Male,ME,1,Ajmer,77.4,2.5,20,71.4,91.8,0,Placed
+STU0629,Student_629,23,Male,CSE,5,Bikaner,60.9,4.3,13,87.2,86.4,0,Not Placed
+STU0630,Student_630,19,Female,CSE,5,Kota,91.3,5.2,19,81.0,65.6,0,Not Placed
+STU0631,Student_631,22,Male,CSE,6,Jaipur,68.2,4.1,19,56.1,60.3,1,Not Placed
+STU0632,Student_632,20,Male,EE,4,Jodhpur,70.7,3.5,11,79.2,82.5,0,Higher Studies
+STU0633,Student_633,22,Female,ME,6,Jaipur,65.8,2.0,10,64.3,58.2,0,Not Placed
+STU0634,Student_634,20,Female,CSE,4,Udaipur,86.4,4.5,9,36.1,58.9,1,Higher Studies
+STU0635,Student_635,20,Female,CSE,4,Jaipur,59.7,0.5,19,69.5,69.6,0,Placed
+STU0636,Student_636,19,Female,CSE,1,Bikaner,85.4,3.1,19,57.0,38.0,0,Placed
+STU0637,Student_637,21,Male,CE,7,Udaipur,90.5,2.6,10,67.0,48.3,0,Placed
+STU0638,Student_638,18,Male,ME,1,Udaipur,84.4,4.0,12,93.4,65.3,1,Placed
+STU0639,Student_639,19,Female,CSE,3,Alwar,86.6,4.1,17,70.6,77.1,0,Not Placed
+STU0640,Student_640,19,Female,CSE,4,Alwar,87.1,6.4,14,50.7,58.0,2,Placed
+STU0641,Student_641,21,Male,CSE,5,Udaipur,66.6,7.7,17,82.4,67.0,1,Not Placed
+STU0642,Student_642,18,Female,ME,7,Jodhpur,95.2,2.3,10,72.8,45.8,0,Not Placed
+STU0643,Student_643,22,Male,ME,2,Alwar,72.5,8.5,4,48.8,84.0,0,Not Placed
+STU0644,Student_644,23,Male,CSE,3,Jaipur,77.2,2.9,16,41.3,73.3,0,Not Placed
+STU0645,Student_645,23,Male,CSE,1,Bikaner,74.0,4.8,6,51.4,74.6,2,Not Placed
+STU0646,Student_646,22,Male,CSE,6,Jaipur,83.9,5.5,7,80.4,77.3,2,Placed
+STU0647,Student_647,19,Male,EE,3,Jodhpur,71.5,9.4,14,62.2,71.2,0,Placed
+STU0648,Student_648,18,Male,CSE,3,Kota,78.8,3.4,5,68.3,62.7,2,Not Placed
+STU0649,Student_649,19,Female,ME,7,Delhi,63.2,0.9,17,45.6,86.9,0,Not Placed
+STU0650,Student_650,20,Male,ECE,3,Bikaner,92.0,7.5,15,80.8,72.4,0,Placed
+STU0651,Student_651,19,Male,CSE,3,Alwar,86.0,2.8,20,34.8,67.5,3,Higher Studies
+STU0652,Student_652,19,Female,CSE,2,Bikaner,74.5,3.8,15,56.5,69.9,1,Placed
+STU0653,Student_653,22,Female,CSE,8,Jaipur,72.4,2.3,15,73.7,69.6,0,Placed
+STU0654,Student_654,22,Female,ECE,6,Delhi,85.7,3.8,4,49.0,67.4,1,Placed
+STU0655,Student_655,22,Female,CE,6,Ajmer,69.5,2.8,16,76.8,76.7,4,Not Placed
+STU0656,Student_656,23,Female,ME,6,Ajmer,79.5,5.9,17,53.1,56.0,1,Not Placed
+STU0657,Student_657,20,Male,ECE,4,Alwar,91.9,4.7,5,47.4,57.1,2,Placed
+STU0658,Student_658,22,Male,CSE,5,Jodhpur,68.3,3.1,15,87.6,78.4,1,Placed
+STU0659,Student_659,18,Male,EE,8,Ajmer,,6.5,19,69.5,67.8,0,Not Placed
+STU0660,Student_660,23,Male,CE,6,Bikaner,81.8,20.0,7,75.3,84.6,2,Placed
+STU0661,Student_661,21,Male,CSE,3,Ajmer,76.8,0.8,11,83.3,76.1,0,Placed
+STU0662,Student_662,18,Female,EE,3,Kota,72.0,6.3,5,25.1,61.7,3,Not Placed
+STU0663,Student_663,18,Male,ECE,6,Kota,92.6,4.9,13,77.2,78.6,0,Placed
+STU0664,Student_664,22,Male,ECE,7,Alwar,70.8,7.3,12,54.8,88.0,1,Higher Studies
+STU0665,Student_665,21,Male,ME,6,Kota,56.3,4.7,18,56.9,76.7,0,Placed
+STU0666,Student_666,21,Female,CE,3,Ajmer,85.7,2.9,16,74.0,80.0,0,Not Placed
+STU0667,Student_667,23,Male,ME,4,Jodhpur,63.6,4.1,20,61.2,67.4,0,Not Placed
+STU0668,Student_668,21,Female,CSE,1,Udaipur,86.3,6.1,19,76.5,84.9,5,Higher Studies
+STU0669,Student_669,20,Male,CSE,1,Udaipur,94.0,3.0,5,66.3,61.3,4,Placed
+STU0670,Student_670,22,Male,EE,8,Alwar,85.6,3.6,17,69.7,75.1,0,Not Placed
+STU0671,Student_671,21,Male,CSE,8,Delhi,90.9,4.1,6,59.2,100.0,5,Not Placed
+STU0672,Student_672,23,Female,CSE,6,Udaipur,100.0,2.2,15,50.0,78.1,2,Not Placed
+STU0673,Student_673,20,Male,CSE,2,Udaipur,89.6,3.0,11,55.2,63.7,1,Not Placed
+STU0674,Student_674,19,Female,CSE,6,Kota,82.0,4.8,5,65.4,63.7,0,Not Placed
+STU0675,Student_675,19,Male,ECE,7,Kota,97.6,6.9,7,96.4,68.9,3,Higher Studies
+STU0676,Student_676,20,Male,EE,6,Ajmer,99.1,5.1,17,90.6,82.8,0,Placed
+STU0677,Student_677,23,Female,CSE,8,Alwar,99.2,4.4,19,56.5,72.2,2,Placed
+STU0678,Student_678,20,Female,CSE,1,Delhi,72.1,2.8,5,68.0,60.3,2,Not Placed
+STU0679,Student_679,22,Female,CSE,3,Alwar,61.8,6.7,15,62.4,60.2,2,Placed
+STU0680,Student_680,22,Female,EE,6,Jaipur,71.4,5.4,17,69.1,72.3,1,Higher Studies
+STU0681,Student_681,19,Female,ME,3,Bikaner,86.4,3.1,9,71.1,70.6,0,Not Placed
+STU0682,Student_682,21,Female,CSE,3,Delhi,79.9,6.3,16,75.4,76.8,0,Not Placed
+STU0683,Student_683,23,Female,CE,2,Delhi,75.5,,7,20.6,83.8,0,Placed
+STU0684,Student_684,19,Female,CE,3,Jodhpur,84.7,2.9,15,72.9,100.0,0,Placed
+STU0685,Student_685,21,Female,CE,1,Alwar,60.4,4.3,11,60.6,48.1,1,Not Placed
+STU0686,Student_686,21,Male,EE,4,Ajmer,79.7,3.5,10,55.7,80.3,1,Higher Studies
+STU0687,Student_687,22,Female,CSE,4,Jodhpur,91.4,9.8,19,79.7,71.5,2,Higher Studies
+STU0688,Student_688,18,Male,ME,5,Delhi,84.6,5.6,9,90.5,42.3,0,Placed
+STU0689,Student_689,18,Female,ECE,7,Delhi,86.3,4.9,14,78.0,88.7,0,Placed
+STU0690,Student_690,20,Female,CE,6,Delhi,97.2,5.4,8,58.7,76.3,0,Placed
+STU0691,Student_691,22,Male,ME,7,Udaipur,77.2,7.3,19,49.8,82.0,0,Higher Studies
+STU0692,Student_692,21,Female,CE,1,Alwar,70.2,4.3,10,20.0,44.5,0,Placed
+STU0693,Student_693,23,Male,ME,3,Bikaner,92.3,3.3,8,69.9,66.7,1,Placed
+STU0694,Student_694,18,Male,CSE,4,Bikaner,92.1,6.2,14,76.3,53.8,0,Placed
+STU0695,Student_695,21,Female,ECE,7,Jodhpur,84.7,4.2,18,65.4,100.0,1,Placed
+STU0696,Student_696,18,Male,EE,1,Delhi,76.1,2.4,6,81.9,87.2,0,Higher Studies
+STU0697,Student_697,18,Female,EE,4,Bikaner,78.0,2.0,8,45.9,59.8,2,Not Placed
+STU0698,Student_698,18,Female,CSE,3,Kota,62.7,7.6,8,64.3,47.0,2,Placed
+STU0699,Student_699,23,Male,CSE,7,Alwar,91.4,4.8,12,63.0,72.9,4,Placed
+STU0700,Student_700,22,Male,CSE,4,Bikaner,90.9,3.3,18,65.2,86.4,2,Placed
+STU0001,Student_001,21,Female,CSE,7,Ajmer,76.1,1.9,14,60.1,87.5,0,Higher Studies
+STU0002,Student_002,22,Male,ECE,4,Alwar,86.4,6.2,15,55.4,68.4,0,Higher Studies
+STU0003,Student_003,20,Female,EE,3,Ajmer,74.7,5.3,9,93.7,65.6,0,Not Placed
+STU0004,Student_004,22,Male,ME,2,Udaipur,85.6,2.5,8,68.9,55.9,0,Placed
+STU0005,Student_005,22,Female,CSE,7,Udaipur,59.5,2.1,4,75.1,89.9,1,Placed
